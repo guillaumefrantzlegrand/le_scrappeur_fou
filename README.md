@@ -1,5 +1,3 @@
-Guillaume Legrand
-
 THP - Le scrappeur fou
 
 i)Dark Trader
@@ -13,3 +11,5 @@ gem 'rspec'
 gem 'pry'
 gem 'dotenv'
 gem 'nokogiri'
+
+Réalisé en collaboration avec Clement Delerry, Nicolas Rubin, Paul Floyd et Guillaume Legrand.
