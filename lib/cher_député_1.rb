@@ -2,8 +2,7 @@ require 'rubygems'
 require 'nokogiri'
 require 'open-uri'
 require 'pry'
-
-puts "Wait, might be long to come"
+require 'rspec'
 
   def get_name
     page = Nokogiri::HTML(open("http://www2.assemblee-nationale.fr/deputes/liste/alphabetique"))

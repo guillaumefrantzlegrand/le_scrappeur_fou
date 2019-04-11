@@ -2,6 +2,9 @@ require 'rubygems'
 require 'nokogiri'
 require 'open-uri'
 require 'pry'
+require 'rspec'
+
+
 PAGE_URL= "http://annuaire-des-mairies.com/val-d-oise.html" #page val d'oise donnée
 @root = "http://annuaire-des-mairies.com" #page accueil France Mairies
 puts "Please, Wait, it might could be long........sorrey!"
